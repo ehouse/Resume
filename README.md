@@ -1,10 +1,9 @@
-## Evelyn House - Resume
+# Evelyn House - Resume
 
-Static link to my resume [here](https://github.com/ehouse/Resume/blob/master/Evelyn_House_Resume.pdf).
+Static link to my resume [here](https://raw.githubusercontent.com/ehouse/Resume/master/Evelyn_House_Resume.pdf).
 
-Custom design and layout created by me using Affinity Publisher.
-
-Other projects are listed on my personal blog https://ehouse.io
+Custom template and layout created by me using Affinity Publisher.  
+My other projects are listed on my personal blog https://ehouse.io.
 
 ---
 
